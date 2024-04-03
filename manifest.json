@@ -1,9 +1,9 @@
 {
-	"id": "io.github.fabrialberio.obsidian-markdown-properties",
-	"name": "Markdown in properties",
+	"id": "io.github.fabrialberio.obsidian-latex-properties",
+	"name": "LaTeX commands in properties",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Enables the use of Markdown syntax in file properties.",
+	"description": "Enables the use of LaTeX commands in file properties.",
 	"author": "Obsidian",
 	"authorUrl": "https://github.com/fabrialberio",
 	"isDesktopOnly": false
